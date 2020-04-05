@@ -1,4 +1,5 @@
-# taskgenerate
+# steps to follow for use taskgenerate app
+
 step 1 : intall nodemodule
 step 2 : cd client
 step 3 : install nodemodule
